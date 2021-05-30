@@ -1,3 +1,4 @@
 # hello-letscode
-Beginning phase-how to use github
+
+This is an introductory practice session by me to familiarise the github concepts
 
